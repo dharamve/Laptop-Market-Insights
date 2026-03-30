@@ -25,6 +25,6 @@ Mid-range laptops with high ratings offer the best value
 
 
 
-Tools Used
-Power BI
+Tools Used:
+Power BI,
 Excel
